@@ -87,3 +87,15 @@ nav li {
   font-weight: 200;
     
 }
+ 
+a {
+  text-decoration-line: none;
+}
+
+/* Last Section */
+.result {
+  margin-left: 200px;
+  font-size: 24px;
+  font-weight: 600;
+  color: rgb(121, 118, 118);
+}
